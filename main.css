@@ -1,0 +1,40 @@
+@import url("https://github.com/hellbound1337/dark-discord/blob/master/splash.css");
+:root {
+   /*text muted is #72767d */
+    /* used for slowmode and somebody typing texts*/
+    --col-mute: #abadb4;
+}
+/*message box, jump bars and realted changes*/
+.scrollableContainer-2NUZem {
+    border-radius: 25px;
+}
+/*maybe make attach button the same color? jk, jk... unless? */
+/*you probably won't even notice*/
+.attachButtonInner-PQjIyk svg path {
+    fill: var(--col-mute);
+}
+/* user popout - credit to : https://github.com/A-User-s-Discord-Themes/Couve*/
+/*role pills*/
+.role-2irmRk{
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    border: none;
+    padding: 5px;
+}
+.roleCircle-3xAZ1j::before{
+    content: "";
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height: 100%;
+    background: inherit;
+    opacity: .2;
+    z-index: -1;
+    pointer-events: none;
+}
+/*Bottom*/
+.footer-1fjuF6{
+    border-top: none;
+}

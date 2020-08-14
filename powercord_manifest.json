@@ -1,8 +1,9 @@
 {
-    "name": "Deep Blue discord",
-    "description": "a Deep Blue theme based on Harmony and the new Discord concept art on their new website: https://discord.com/new",
+    "name": "Dark Revamp",
+    "description": "A private dark mode theme for discord.",
     "version": "1.0.0",
-    "author": "KraXen72#9190",
-    "license": "WTFPL v2",
-    "theme": "./main.css"
+    "author": "mo#2222",
+    "theme": "darkrevamp.theme.css",
+    "splashTheme": "splash.css",
+    "license": "Unlicensed"
 }

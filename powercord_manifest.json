@@ -1,8 +1,8 @@
 {
     "name": "Dark Revamp",
-    "description": "A private dark mode theme for discord.",
+    "description": "Private dark theme for discord.",
     "version": "1.0.0",
     "author": "mo#2222",
-    "splashTheme": "splash.css",
-    "license": "Unlicensed"
+    "license": "Unlicensed",
+    "theme": "splash.css"
 }

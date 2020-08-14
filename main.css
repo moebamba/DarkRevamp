@@ -1,9 +1,9 @@
-:Root {
+:root {
    /*text muted is #72767d */
     /* used for slowmode and somebody typing texts*/
     --col-mute: #abadb4;
 }
-/*message box, jump bars and realted changes*/
+/*message box, jump bars and related changes*/
 .scrollableContainer-2NUZem {
     border-radius: 25px;
 }
@@ -40,7 +40,6 @@
 #splash {
     background: #0c0c0c;
 }
-
 .progress .progress-bar {
     background-color: #292929;
 }
@@ -55,4 +54,5 @@
     background: #141414;
     border-color: #191919;
 }
+
 

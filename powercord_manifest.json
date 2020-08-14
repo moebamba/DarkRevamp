@@ -3,7 +3,6 @@
     "description": "A private dark mode theme for discord.",
     "version": "1.0.0",
     "author": "mo#2222",
-    "theme": "darkrevamp.theme.css",
     "splashTheme": "splash.css",
     "license": "Unlicensed"
 }

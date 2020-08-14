@@ -4,5 +4,5 @@
     "version": "1.0.0",
     "author": "mo#2222",
     "license": "Unlicensed",
-    "theme": "splash.css"
+    "theme": "./main.css"
 }

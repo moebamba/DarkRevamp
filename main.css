@@ -426,3 +426,51 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 .input-cIJ7To {
     border-radius: 25px;
 }
+
+.connectionHeader-2MDqhu {
+    border-radius: 25px 25px 0 0;
+}
+
+.colorBrand-ROmMP1 {
+    color: #677bc4 !important;
+}
+
+.colorDanger-2qLCe1, .colorDanger-2qLCe1 .checkbox-3s5GYZ, .colorDanger-2qLCe1 .radioSelection-1HmrQS {
+    color: #f04747 !important;
+}
+
+.input-cIJ7To {
+    border-radius: 25px;
+}
+
+.menu-Sp6bN1 {
+    border-radius: 0px;
+    width: 240px;
+    background-color: var(--deprecated-panel-background);
+    box-shadow: none;
+}
+
+.separator-2I32lJ, .description-2L932D {
+    display: none;
+}
+.statusItem-33LqPf[aria-label="Hide Game Activity"] svg {
+    margin-left: -2px;
+}
+
+.layer-v9HyYc[style="left: 80px; bottom: 57px;"] {
+    left: 72px !important;
+    bottom: 53px !important;
+}
+
+.menu-Sp6bN1 .separator-2zcjq8/*, .statusItem-2uzPIV .helper-2c73HK*/ {
+    display: none;
+}
+
+.animatedContainer-1pJv5C {
+    /*add rounded corner to banner*/
+    border-top-right-radius: 10px;
+}
+
+:root {
+    --spotify-color: #FFFFFF !important;
+}

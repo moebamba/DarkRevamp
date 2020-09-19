@@ -770,3 +770,56 @@ svg:active > .updateIconForeground-3tnNZn {
 .topPill-30KHOu .item-PXvHYJ {
    border-radius: 24px
 }
+
+/* more roundness lol */
+.wrapper-39oAo3 {
+border-radius: 24px
+}
+.channel-2PJTLY,.channelContainer-1x3D6I,.css-17mfgdg-container {
+ 
+border-radius: 24px
+}
+.listRow-hutiT_, .rowInner-1vvRiF {
+  border-radius: 24px
+  
+}
+.container-VSDcQc .header-2bNvm4 {
+	border-top-left-radius: 24px;
+	border-top-right-radius: 24px
+}
+.autocompleteShadow-iiGWFU {
+  border-radius: 24px
+}
+/* bubble box */
+.tooltip-2QfLtc, .tooltipRight-2JM5PQ, .tooltipBlack-PPG47z, .tooltipDisablePointerEvents-3eaBGN, .listItemTooltip-CDcY8J {
+border-radius: 12px;
+
+}
+/* mutuals quick ban */
+.mutuals-quick-ban-btn, .mutuals-quick-ban-btn:hover {
+	border-radius: 24px
+}
+/* vc name hover */
+.content-3xS9Lh {
+  border-radius: 24px
+}
+.button-1ZiXG9.selected-LCBEAU {
+  border-radius: 24px
+}
+.button-1ZiXG9 {
+  border-radius: 24px
+}
+
+/* nitro boost area */
+.guildHeader-3nh5RK {
+  border-top-left-radius: 24px;
+	border-top-right-radius: 24px;
+}
+
+.guildSubscriptionSlots-JPXXvN {
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px
+}
+.guildHeaderBackground-1G51bM {
+  border-top-right-radius: 24px
+}

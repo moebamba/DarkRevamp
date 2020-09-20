@@ -473,7 +473,14 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 .header-QKLPzZ .powercord-badge-cutie img:first-child{display: none !important}
 .header-QKLPzZ .powercord-badge-cutie img:last-child{display:block!important}
 [class^="profileBadge-2BqF-Z powercord-badge-"]{color:white!important}
-[class*="BadgeStaff"],[class*="BadgePartner"],[class*="BadgeHypeSquad"],[class*="BadgeBugHunter"],[class*="BadgeVerifiedDeveloper"]{filter: brightness(10)!important}
+[class*="BadgeStaff"]{filter: brightness(10)!important}
+[class*="BadgePartner"]{filter: brightness(10)!important}
+[class*="BadgeHypesquad-"]{filter: brightness(10)!important}
+[class*="BadgeHypeSquadOnlineHouse1"]{filter: brightness(10)!important}
+[class*="BadgeHypeSquadOnlineHouse2"]{filter: brightness(10)!important}
+[class*="BadgeHypeSquadOnlineHouse3"]{filter: brightness(10)!important}
+[class*="BadgeBugHunter"]{filter: brightness(10)!important}
+[class*="BadgeVerifiedDeveloper"]{filter: brightness(10)!important}
 [class*="BadgeEarlySupporter"]{background-image:url("/assets/ce15562552e3d70c56d5408cfeed2ffd.svg")!important}
 [class*="BadgePremium"]{background-image:url("/assets/379d2b3171722ef8be494231234da5d1.svg")!important}
 [class*="GuildSubscriberlvl1"]{background-image:url("/assets/a86d7e56b8208da9f8623ac49fe822dc.svg")!important}
@@ -562,10 +569,6 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 	Padding: 6px;
 }
 
-.container-1r6BKw {
-    padding-right: 12px;
-    padding-left: 0px;
-}
 
 /* Update Icon */
 
@@ -585,10 +588,7 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
     background: var(--Color001);
 }
 
-.container-1r6BKw.themed-ANHk51 {
-    background: var(--Color003);
-	height: 60px;
-}
+
 
 .header-2o-2hj {
     position: relative;
@@ -632,23 +632,11 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 
 .children-19S4PO {
 	background: #101010;
+ 	left:3;
 	border-radius: 90px;
 	Padding: 6px;
 	margin-right: 20px;
-}
-
-
-/** 754467684774576147 */
-.panel-24C3ux {
-	position: absolute;
-	background: #101010;
-	border-radius: 24px;
-	padding-top: 14px;
-	padding-bottom: 150px;
-	z-index: 90;
-	width: 220px;
-	bottom: 16px;
-	left: 6px;
+  height: 35px
 }
 
 /* Background */
@@ -763,14 +751,13 @@ svg:active > .updateIconForeground-3tnNZn {
 .searchBar-6Kv8R2 .searchBarComponent-32dTOx {
  border-radius: 90px;
 }
-/* round manage & quickcss background */
+/* round quickcss manager background */
 .powercord-entities-manage-tabs {
    border-radius: 24px;
 }
 .topPill-30KHOu .item-PXvHYJ {
    border-radius: 24px
 }
-
 /* more roundness lol */
 .wrapper-39oAo3 {
 border-radius: 24px
@@ -822,4 +809,8 @@ border-radius: 12px;
 }
 .guildHeaderBackground-1G51bM {
   border-top-right-radius: 24px
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+  text-align: center;
+  border-radius: 12px
 }

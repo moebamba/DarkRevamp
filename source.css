@@ -1823,4 +1823,47 @@ img[alt*="Xbox Live"] + * {
 .connectionIcon-2ElzVe[alt*="Xbox Live"] {
   content: url("https://discord.com/assets/850ed4fcf5839b7a32651f5959e8511e.png");
 }
+/* new messages aka unread */
+.isUnread-3Ef-o9, .content-1o0f9g, .unreadPill-2HyYtt {
+  background-color: #020202;
+  
+}
+.isUnread-3Ef-o9 {
+border-color: #020202 
+}
+.unreadPillCap-3_K2q2 {
+color: #020202 
+}
+.unreadPillCapStroke-7rkHbg {
+fill: #020202;
+  color: #020202
+}
 
+.newMessagesBar-265mhP {
+background-color: #020202;
+}
+.theme-dark .selected-1Tbx07 {
+  background-color:  var(--background-modifier-hover);
+	border-radius: 24px
+}
+/* self explanatory */
+.jumpButton-2dvRSC {
+  border-radius: 24px
+}
+.mentioned-xhSam7 {
+border-top-right-radius: 24px;
+border-bottom-right-radius: 24px;
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+background-color: #020202
+}
+.homeIcon-tEMBK1 path {
+  color: #ffffff;
+}
+.actionButton-uPB8Fs.actionDeny-de_uKj:hover,.actionButton-uPB8Fs.actionAccept-LV-szU:hover {
+color: #ffffff !important
+}
+
+.accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+  border-radius: 20px
+}

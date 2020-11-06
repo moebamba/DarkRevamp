@@ -1,8 +1,0 @@
-{
-    "name": "Dark Revamp",
-    "description": "A dark discord with round edges.",
-    "version": "1.0.0",
-    "author": "mo",
-    "license": "Unlicensed",
-    "theme": "./main.css"
-}

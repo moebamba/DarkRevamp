@@ -1928,3 +1928,8 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 .content-1o0f9g,.isUnread-3Ef-o9 .content-1o0f9g {
 	color: #ffffff
 }
+/** reply container **/
+.container-2fRDfG {
+background: #020202;
+border-radius: 12px
+}
